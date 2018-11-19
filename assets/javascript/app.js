@@ -19,9 +19,9 @@ var quizArray = [
 },
 
 {
-    question: "What is Batman's real name?"
-    answers: "Clark Kent, Bruce Wayne, Peter Parker, Bruce Banner"
-    correct: "Bruce Wayne"
+    question: "Who is Batman's mortal enemy?"
+    answers: "Thanos, Joker, Lex Luther, Mega mind"
+    correct: "Joker"
 },
 
 ]
