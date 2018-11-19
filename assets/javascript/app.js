@@ -13,9 +13,9 @@ var quizArray = [
 },
 
 {
-    question: ""
-    answers: ""
-    correct: ""
+    question: "Who is the main character in Breaking Bad"
+    answers: "Walter White, Gus Fring, Saul Goodman, Hank Schrader"
+    correct: "Walter White"
 },
 
 ]
