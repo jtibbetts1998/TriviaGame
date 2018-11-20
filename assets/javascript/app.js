@@ -25,12 +25,19 @@ var quizArray = [
 },
 
 ]
-
+//I couldnt figure out how to loop or get the start button on and functional
+//I also needed to refresh the page per question
 startButton
 
-function on.click
+function onclick(){
 
-setTimeout
+alert("Boom!");
+
+}
+
+setTimeout(click, 2000);
+   
+
 
 for loop
 
